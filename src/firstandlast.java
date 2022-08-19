@@ -30,6 +30,7 @@ public static int[] serach(int[]num,int tar){
                 start=mid+1;
             }
 
+
             else {
                 ans=mid;
                 if(first){
